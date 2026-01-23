@@ -4,7 +4,7 @@ Thank you for trying out the first version of this PowerShell-based operating sy
 
 ▶️ Step 1: How to Run the OS
 Once you have the script file on your computer, running it is simple:
-Navigate to the folder where you saved YourOSFileName.ps1.
+Navigate to the folder where you saved win120.ps1.
 Right-click on the script file.
 Select Run with PowerShell.
 
