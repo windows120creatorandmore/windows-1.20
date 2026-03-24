@@ -1,7 +1,4 @@
-# windows-1.20
-this is my own windows version i made. runs in powershell. tutorial in README. and its open source to. you just double click the file and therse the code!
-Thank you for trying out the first version of this PowerShell-based operating system.
-
+# win-1.20
 ▶️ Step 1: How to Run the OS
 Once you have the script file on your computer, running it is simple:
 Navigate to the folder where you saved win120.ps1.
