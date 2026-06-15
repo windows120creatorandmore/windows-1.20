@@ -27,3 +27,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 The terminal will ask "Do you want to change the execution policy?". Type Y (for Yes) and press Enter again.
 Close and reopen PowerShell, then follow the instructions in Step 1 to run the OS.
+
+
+do not trust the release saying "january 23 2026" its lying. all i do is reuse the same release but update the tag/info and version.
+new esu days: june-august
